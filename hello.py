@@ -406,7 +406,7 @@
 # # Dog can also do dog things
 # print(my_dog.bark())   # Buddy says woof!
 
-#  example with sub methods
+#  example with inheritance with sub methods
 
 # class Animal:
 #     def __init__(self, name):
